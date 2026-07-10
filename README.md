@@ -1,17 +1,13 @@
 <h1 align="center">Hi, I'm Nick 👋</h1>
-
 <h3 align="center">Backend Engineer · Java/Kotlin · High-Load & Fintech Systems</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=9%2B+years+building+high-load+fintech+systems;Java+%2F+Kotlin+%2F+Spring+%2F+Kafka;Distributed+systems+%26+banking+integrations;Open+to+remote+Java+Backend+roles+globally" alt="Typing SVG" />
 </p>
-
 <p align="center">
+  <a href="https://www.linkedin.com/in/stepanovn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://t.me/n1ckstep"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:stepanovn1kolay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/nsteps"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Open%20to%20remote%20Java%20Backend%20roles%20globally-2ea44f?style=flat-square" alt="Open to remote roles"/>
 </p>
@@ -41,10 +37,11 @@ I'm a Backend Engineer with **9+ years of experience** designing high-load, secu
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <i>💬 Feel free to reach out on Telegram or by email — always happy to talk backend, distributed systems, or fintech architecture.</i>
+  <i>💬 Feel free to reach out — always happy to talk backend, distributed systems, or fintech architecture.</i>
 </p>
