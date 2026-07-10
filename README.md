@@ -45,18 +45,6 @@ I'm a Backend Engineer with **9+ years of experience** designing high-load, secu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nsteps&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsteps&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>💬 Feel free to reach out on Telegram or by email — always happy to talk backend, distributed systems, or fintech architecture.</i>
 </p>
