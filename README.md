@@ -39,9 +39,3 @@ I'm a Backend Engineer with **9+ years of experience** designing high-load, secu
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
-
----
-
-<p align="center">
-  <i>💬 Feel free to reach out — always happy to talk backend, distributed systems, or fintech architecture.</i>
-</p>
